@@ -1,0 +1,4 @@
+interface:
+  display_name: "PiFlow 项目开发约束"
+  short_description: "为 Superpowers 流程叠加 PiFlow 开发约束"
+  default_prompt: "使用 $piflow-development-workflow，在 Superpowers 通用流程之上应用 PiFlow 项目开发约束。"

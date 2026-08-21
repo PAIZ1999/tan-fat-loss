@@ -1,0 +1,4 @@
+interface:
+  display_name: "PiFlow 项目文档约束"
+  short_description: "为 Superpowers 流程叠加 PiFlow 文档约束"
+  default_prompt: "使用 $piflow-documentation-workflow，在 Superpowers 通用流程之上应用 PiFlow 项目文档约束。"
