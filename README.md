@@ -9,6 +9,18 @@
 
 ---
 
+## 🖼️ 应用预览
+
+### 💻 网页端主操作界面
+![网页端主操作界面](./docs/images/app-preview.png)
+
+### 📱 导出的极简打卡海报
+<p align="center">
+  <img src="./docs/images/poster-preview.png" width="550" alt="导出的极简打卡海报" />
+</p>
+
+---
+
 ## 📖 项目简介
 
 **派的减脂助手** 是一款专为减脂人群量身打造的**生活化精准配餐与营养素计算工具**。
