@@ -1,4 +1,0 @@
-interface:
-  display_name: "PiFlow API 知识库"
-  short_description: "为 PiFlow 项目检索、引用并维护 API 知识库"
-  default_prompt: "使用 $piflow-api-knowledge 查询并引用 PiFlow API 知识库。"
